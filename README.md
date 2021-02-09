@@ -1,4 +1,5 @@
 # EPPlus
+**This fork of EPPlus was created to ensure DCGIS has a copy of the code should we need to recompile // alter it.  As the last LGPL version, we can use this sans commercial license.**
 **This repository has moved to https://github.com/EPPlusSoftware/EPPlus.** 
 
 **The code in this archive represents the final version of EPPlus under LGPL. There will be no more activity here.**  
